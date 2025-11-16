@@ -5,7 +5,7 @@ The application supports three user roles (Admin, Teacher, Student) and provides
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **User Login & Role-based Access**
   - Admin, Teacher, and Student roles
@@ -32,7 +32,7 @@ The application supports three user roles (Admin, Teacher, Student) and provides
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Language:** Python 3.x  
 - **GUI:** Tkinter (with `ttk` widgets)  
@@ -41,7 +41,7 @@ The application supports three user roles (Admin, Teacher, Student) and provides
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 attendance-system/
@@ -58,7 +58,7 @@ You may not have all of these files in your copy, but this is the recommended st
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 1. Make sure you have **Python 3.x** installed.
 2. Install required libraries (if not already available):
@@ -76,7 +76,7 @@ You may not have all of these files in your copy, but this is the recommended st
 
 ---
 
-## 🔑 Default Test Accounts
+##  Default Test Accounts
 
 You can use the following accounts for testing (example):
 
@@ -94,7 +94,7 @@ You can use the following accounts for testing (example):
 
 ---
 
-## ✅ Testing
+##  Testing
 
 Testing was performed using a set of **10 core test cases** designed with the official **“Testing Document Template”**:
 
@@ -130,7 +130,7 @@ Create a folder `screenshots/` and upload the images there, then reference them 
 
 ---
 
-## 📚 Future Improvements
+##  Future Improvements
 
 - Export attendance reports to Excel or PDF  
 - Add search & filter by date range and class/course  
@@ -139,7 +139,7 @@ Create a folder `screenshots/` and upload the images there, then reference them 
 
 ---
 
-## 👤 Author
+##  Author
 
 - **Student:** (Nguyễn Thành Lộc)  
 - **GitHub:** [ThanhLoc0906](https://github.com/ThanhLoc0906)
